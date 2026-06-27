@@ -43,7 +43,7 @@ Demolink: https://bmi-calculator-gilt-two.vercel.app/
 
 ## 👨‍💻 Author
 
-**Jayzen**
+**YUKESH_R**
 
 GitHub: https://github.com/yukesh-code25
 
