@@ -35,6 +35,11 @@ This project demonstrates the use of **HTML for structure**, **CSS for styling**
 * JavaScript (ES6)
 
 ---
+##Livedemo
+
+Demolink: https://bmi-calculator-gilt-two.vercel.app/
+
+---
 
 ## 👨‍💻 Author
 
