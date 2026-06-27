@@ -1,0 +1,68 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body */
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #4facfe, #00f2fe);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Main Container */
+.background {
+    background-color: white;
+    padding: 40px;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    width: 400px;
+}
+
+/* Heading */
+.text {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+/* Subheading */
+h2 {
+    color: #555;
+    margin: 15px 0;
+    font-size: 18px;
+}
+
+/* Button */
+.btn {
+    background-color: #4facfe;
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    font-size: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.btn:hover {
+    background-color: #2e8de6;
+    transform: scale(1.05); 
+}
+
+/* BMI Score */
+#BmiScore {
+    margin-top: 25px;
+    color: #222;
+}
+
+/* Category */
+#category {
+    color: #ee4410;
+    font-weight: bold;
+}
